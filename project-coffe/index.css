@@ -17,7 +17,6 @@ body{
         padding-top: 15px;
       }
 .logo {
-   
     width: 10%;
     height: 15%; /* Adding 'px' as the unit */
 }
@@ -30,7 +29,6 @@ body{
  nav ul li {
     margin-left: 20px;
     margin-bottom: 10px; /* Adjust vertical spacing between list items */
-
 }
  nav ul li a {
     font-family: "Playfair Display SC", serif;
@@ -52,24 +50,15 @@ body{
     text-align: center;
     font-size:50px ;
     margin: 50px;
-
 }
 .main-btn {
    color: #4D331F;
    font-size: 20px;
-  font-family: cursive; ;
+   font-family: cursive; ;
    background-color:#FCDEC0 ;
    padding: 10px 10px;
-   
 }
-.img {
-    width: 400px;
-    height: 400px;
-    background: url(4.jpg);
-    background-position: center;
-    background-size: cover;
-    transform: translateY(00px);
-  }
+
   section div{
     transform: translateY(700px);
     background-color: #1b0c06;
