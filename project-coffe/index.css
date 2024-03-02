@@ -44,7 +44,7 @@ body{
     border-bottom: 2px solid #deab5f;
 }
 .header{
-   font-family: cursive;
+ font-family: 'cursive';
     justify-content:right;
     color:  #FCDEC0;
     text-align: center;
@@ -79,7 +79,7 @@ body{
         justify-content: center;
     }
 .history{
- font-family: cursive;
+ font-family: 'cursive';
  font-size: 30px;
  color: #FCDEC0;
  text-align: center;
@@ -103,7 +103,7 @@ footer .heading-info {
 
 footer p {
   font-size:25px;
-  font-family: cursive;
+font-family: 'cursive';
   line-height: 25px;
   text-align: center;
 }
