@@ -80,7 +80,7 @@ body{
 .history{
   font-family: 'Cursive',cursive;
  font-size: 30px;
- color: #FCDEC0;
+ color: #E6B17E;
  text-align: center;
 }
 .product{
@@ -90,14 +90,42 @@ body{
    justify-content: center;
    
 }
+
+section div ul {
+  display: flex;
+  justify-content: center;
+}
+
+section div ul li {
+  list-style: none; /* Remove default list styles */
+}
+
+section div ul li a {
+  text-decoration: none; /* Remove default underline */
+  color: #e9c9ac; /* Change link color */
+  margin: 0px 150px; /* Adjust as needed for spacing between links */
+  font-size: 40px;
+}
+
+section div ul li a:hover {
+  color: #4D331F; /* Change link color on hover */
+}
+p{
+  font-size: 35px;
+  font-family: 'Cursive',cursive; 
+  text-align: center;
+  color:#E6B17E;
+}
+
 footer {
 align-items: center;
 color: #ffffff;
-font-family: 'Cursive',cursive;
+font-family: 
 }
 footer div{
-transform: translateY(5000px);
+transform: translateY(1000px);
 }
+
 footer .heading-info {
   font-family: "Playfair Display SC", serif;
   margin-bottom: 20px;
@@ -109,40 +137,16 @@ footer p {
   font-family: 'Cursive',cursive;
   line-height: 25px;
   text-align: center;
+  color: #FCDEC0;
 }
 
 span {
   font-family: "Playfair Display SC", serif;
-  color: #deab5f;
+  color: #eeca94;
 }
 
  footer hr{
   width: 25%;
   color:#deab5f;
 
-}
-ul {
-  display: flex;
-  justify-content: center;
-}
-
-ul li {
-  list-style: none; /* Remove default list styles */
-}
-
-ul li a {
-  text-decoration: none; /* Remove default underline */
-  color: #e9c9ac; /* Change link color */
-  margin: 0px 150px; /* Adjust as needed for spacing between links */
-  font-size: 40px;
-}
-
-ul li a:hover {
-  color: #4D331F; /* Change link color on hover */
-}
-p{
-  font-size: 40px;
-  font-family: 'Cursive',cursive; 
-  text-align: center;
-  color: #f7d9bc;
 }
