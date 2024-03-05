@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Arizonia&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display+SC:wght@700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Cursive&display=swap');
+
+    body{
+        background-color: #c29770 ;
+        background-attachment: fixed;
+        background-repeat:no-repeat ;
+        background-size: cover;
+        height: 100vh;
+        display: inline-block;
+        align-items: center;
+        justify-content: center;
+        margin: 0;
+    }
+    .container{
+        text-align: center;
+        width: 100%;
+        padding: 20px;
+        border: 2px solid #ddd;
+        border-radius: 10px;
+        background-color: rgba(255, 255, 255, 0.8); /
+    }
+
+    .bar {
+        background-color: #310000;
+        color: #fff;
+        padding: 10px;
+        border-radius: 5px 5px 0 0;
+        margin-bottom: 20px;
+    }
+
+    h2 {
+        color: #333;
+    }
+
+    p {
+        margin: 10px 0;
+        color: #666;
+    }

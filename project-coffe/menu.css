@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Arizonia&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display+SC:wght@700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Cursive&display=swap');
+
+
+body{
+    background-color: #c29770 ;
+    background-attachment: fixed;
+    background-repeat:no-repeat ;
+    background-size: cover;
+    
+}
+
+hr {
+    color:#351b00;
+    width:auto;
+    
+}
+.coffee{
+    display: flex;
+    justify-content: center;
+}
+.Turkish-Coffee , .affogato, .capotchino{
+    background-color: #E6B17E;
+    width: 300px;
+    height: 500px;
+    margin: 0 30px; 
+    margin-bottom: 20px;
+    border: 30px solid #000;
+    text-align: center; 
+}
+
+
+.cacke{
+    display: flex;
+    justify-content: center;
+}
+.Lemon-Cake ,.chokola-cacke,.Fruit-Cake {
+    background-color: #E6B17E;
+    width: 300px;
+    height: 500px;
+    margin: 0 30px; 
+    margin-bottom: 20px;
+    border: 30px solid #000;
+}
+
+.Beverages{
+    display: flex;
+    justify-content: center;
+}
+.tea ,.Fruit-juice,.soda{
+background-color: #E6B17E;
+width: 300px;
+height: 500px;
+margin: 0 30px; 
+margin-bottom: 20px;
+border: 30px solid #000;
+}
+.str{
+ margin: 80px;
+    display: flex;
+    justify-content: center;
+    height: 100px;
+}
+STRONG{
+    font-size: 50px;
+    text-align: center;
+    color:#351b00;
+    font-family: "Playfair Display SC", serif;
+   }
+h1{
+    font-size: 40px;
+    font-style: italic;
+    color: #351b00;
+    font-family: "Cursive", cursive;
+    text-align: center;
+}
+button{
+    color: #251a0f;
+    background-color: #c29770;
+    text-align: center;
+}
+.id {
+    color: #251a0f;
+    background-color: #c29770;
+    text-align: center;
+}
